@@ -81,13 +81,13 @@ There are slightly different approaches should you choose to use GitPod to clone
 2. If you do not already have one, [create a GitHub account](https://github.com/join).
 3. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki).
 4. Restart Chrome.
-5. In GitHub, find the [project repository](https://github.com/lilblupig/curls-ms1).
+5. In GitHub, find the [project repository](https://github.com/March-Hackathon-Team-27/Hackathon-Project-canRename-).
 6. From the repository menu, choose the green GitPod button.
 ![GitPod button snip](assets/images/deploy-3.png)
 7. A new GitPod workspace will open containing the project code.
 
 #### Cloning a Project into a Local IDE
-1. Navigate to the [GitHub Repository](https://github.com/lilblupig/curls-ms1).
+1. Navigate to the [GitHub Repository](https://github.com/March-Hackathon-Team-27/Hackathon-Project-canRename-).
 2. Choose the Code dropdown menu, and copy the URL.
 ![GitHub code download snip](assets/images/deploy-4.png)
 3. Open your local IDE and then open a terminal.
@@ -98,14 +98,14 @@ There are slightly different approaches should you choose to use GitPod to clone
 You can find more information on cloning a repository from GitHub [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Credits
----
+
 ### Website Credits
 
 #### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+* The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 #### Media
-- The photos used in this site were obtained from ...
+* The photos used in this site were obtained from ...
 
 #### Acknowledgements
 * This project was created using the following resources:
@@ -124,4 +124,3 @@ You can find more information on cloning a repository from GitHub [here](https:/
   * Snips taken from GitHub.
   * [Am I Responsive](http://ami.responsivedesign.is/).
   * Wireframes created with [Balsamiq](https://balsamiq.com/).
-  * [Markdown Cheat Sheet]()
