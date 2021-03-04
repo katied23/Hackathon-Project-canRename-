@@ -2,8 +2,8 @@
 
 A compact collection of simple Irish themed games or trivia which can be enjoyed across a video call by multiple households - enabling celebration of St Patrick's Day together, but apart!
 
-1. A quiz for households to compare Irish knowledge, Javascript.
-2. Selection of trivia flip cards to try out knowledge of Irish.
+1. Selection of trivia flip cards to try out knowledge of Irish language.
+2. A quiz for households to compare Irish general knowledge.
 3. Game of prompts, Irish themed categories where households vote for the best answer!
 
 ## UX
@@ -24,33 +24,35 @@ The owners of this website want to bring together people for a multitude of reas
 * As a regular user, I want to be made aware of any changes or additions to the website, so that I can try them out.
 
 ### Wireframes
-* [Home](index.html)
+* [Home](#)
 * [Trivia](#)
 * [Quiz](#)
 * [Quiplash](#)
 
 ## Features
+Each page features consistent design to facilitate an intuitive and comfortable user experience.  There is a central home page with links directly to each game for quick and easy use.
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
+The website has a number of games to choose from, meaning users do not have to switch through various sites to facilitate their celebration.
+1. Trivia - Designed as a conversation feeder, an interesting and topical interactive experience to encourage dialog amongst participants.
+2. Quiz - An interactive general Irish knowledge quiz.  Households can each open the page to complete the quiz and track their score, or all households can work together to try to beat the game and get top marks.  Set length to quiz to provide structure.
+3. Prompts - An open ended interactive game where a card is drawn and each household ventures an answer.  The other households vote for their favourite, keeping score off-site.  There is no set length to this game.
+
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+* Nav bar in universal standard position to help users feel intuitively at home with the site.  Uniform across all pages.
+* Bright, on-theme design to help users feel part of a wider celebration.
+* Uniform footer on every page.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+*--------------------Game featues here--------------------*
 
 ### Features Left to Implement
-- Another feature idea
+* Additional cards
+* Accounts and login to manage scoring retention and management
+* Leaderboard
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
-
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+* [Javascript](https://www.javascript.com/)
 
 ## Testing
 
