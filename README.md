@@ -2,16 +2,32 @@
 
 A compact collection of simple Irish themed games or trivia which can be enjoyed across a video call by multiple households - enabling celebration of St Patrick's Day together, but apart!
 
-Essentially, this part is your sales pitch.
- 
+1. A quiz for households to compare Irish knowledge, Javascript.
+2. Selection of trivia flip cards to try out knowledge of Irish.
+3. Game of prompts, Irish themed categories where households vote for the best answer!
+
 ## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+This website is for friends and family who would normally celebrate together but are unable to do so because of the lockdown.  The website provides activities to undertake together, bith competetive and just for interest and fun.  The users are likely to include families, so the activities are suitable for all ages.  The users are likely to need to share the screen on a video call, so the design is clear and simple.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+The owners of this website want to bring together people for a multitude of reasons, St Par=trick's Day is an enormous social celebration in Ireland and this website facilitates social activity to emulate that as far as possible.  It will also help those who might feel isolated in their celebration (or lack thereof) to feel included and part of the community they would normally engage with at this time of year.
+
+*-------------Am I Responsive Image here?------------------*
+
+### User Stories
+* As a first time user, I want to find out what activities the site offers and how easy they are to use, so that I can decide whether it suits the needs of my party.
+* As a first time user, I want to be able to easily navigate to each game and try them to see if I think my party will enjoy them.
+* As a first time user, I want to easily learn what each game involves and how it works, so that I can share the idea with my party.
+* As a returning user, I want to easily access the first game my party wish to play, so that I can share it with them.
+* As a returning user, I want to easily share the game content on my screen without too much scrolling or manipulation of the page, so that I can focus on the experience of the game.
+* As a regular user, I want to get straight to the content of the game I wish to play, so that I can get straight to enjoying my social experience.
+* As a regular user, I want to be made aware of any changes or additions to the website, so that I can try them out.
+
+### Wireframes
+* [Home](index.html)
+* [Trivia](#)
+* [Quiz](#)
+* [Quiplash](#)
 
 ## Features
 
