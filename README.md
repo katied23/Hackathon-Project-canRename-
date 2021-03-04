@@ -56,44 +56,72 @@ The website has a number of games to choose from, meaning users do not have to s
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+...
 
 ## Deployment
+The website was created using [GitPod](https://www.gitpod.io/). Version control was undertaken by committing to [Git](https://git-scm.com/) and pushing to [GitHub](https://github.com/) using the functions within GitPod.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### Deployment of the Page
+1. In GitPod, ensure the tree is clean, and all required items have been committed and pushed to the repository in GitHub.
+2. Sign in to GitHub.
+3. A list of repositories should display on the left of the page. Choose the appropriate repository: lilblupig/curls-ms1
+4. From the repository menu, choose Settings.
+![GitHub menu snip](assets/images/deploy-1.png)
+5. Scroll down the page to find the Pages section.
+6. From the first dropdown box, choose the Master branch, then click save.
+![GitHub Pages snip](assets/images/deploy-2.png)
+7. The page will refresh, and the Pages section now shows a URL for the deployed site.
+8. Click the URL to view the deployed website.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+### How to Run the Code Locally
+There are slightly different approaches should you choose to use GitPod to clone the project, or a local IDE.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+#### Cloning a Project into GitPod
+1. Use [Google Chrome](https://www.google.com/intl/en_uk/chrome/). *(This can also be undertaken in Firefox)*
+2. If you do not already have one, [create a GitHub account](https://github.com/join).
+3. Install the [GitPod browser extension for Chrome](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki).
+4. Restart Chrome.
+5. In GitHub, find the [project repository](https://github.com/lilblupig/curls-ms1).
+6. From the repository menu, choose the green GitPod button.
+![GitPod button snip](assets/images/deploy-3.png)
+7. A new GitPod workspace will open containing the project code.
 
+#### Cloning a Project into a Local IDE
+1. Navigate to the [GitHub Repository](https://github.com/lilblupig/curls-ms1).
+2. Choose the Code dropdown menu, and copy the URL.
+![GitHub code download snip](assets/images/deploy-4.png)
+3. Open your local IDE and then open a terminal.
+4. Set the current working directory to your preferred location for the cloned project.
+5. Type in "git clone " followed by the copied URL. Be sure to include a space between git clone and the url, then press enter.
+6. The cloned project will be created.
+
+You can find more information on cloning a repository from GitHub [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Credits
+---
+### Website Credits
 
-### Content
+#### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
-### Media
+#### Media
 - The photos used in this site were obtained from ...
 
-### Acknowledgements
+#### Acknowledgements
+* This project was created using the following resources:
+  * [Code Institute Full Template](https://github.com/Code-Institute-Org/gitpod-full-template).
 
-- I received inspiration for this project from X
+### README Credits
+
+#### Content
+* Structure and content based heavily on:
+  * [Code Institute Solutions - README Template](https://github.com/Code-Institute-Solutions/readme-template)
+  * [Anna Greaves - Portrait Artist README](https://github.com/AJGreaves/portrait-artist/blob/master/README.md)
+  * [Anna Greaves - Portrait Artist TESTING](https://github.com/AJGreaves/portrait-artist/blob/master/TESTING.md)
+
+#### Media
+* The images for this README are from the following sources:
+  * Snips taken from GitHub.
+  * [Am I Responsive](http://ami.responsivedesign.is/).
+  * Wireframes created with [Balsamiq](https://balsamiq.com/).
+  * [Markdown Cheat Sheet]()
