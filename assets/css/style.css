@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+/** Title **/
+
+#shamrock-image {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/Shamrock.jpg);
+    background-repeat: no-repeat;    
+}
+
+.whats {
+    color: green;
+}
+
+.the {
+    color: white;
+}
+
+.craic {
+    color: orange;
+}
+
+/** main page **/
+
+#gaming-area {
+    height: 600px;
+}
+
+#trivia {
+    padding-top: 50px;    
+    float: left;
+    width: 33%;
+}
+
+#translate {
+    padding-top: 50px;    
+    float: right;
+    width: 33%;
+}
+
+#memory-game {   
+    width: 33%;
+    margin: 0 auto;
+}
+
+.trivia-heading {
+    width: 50%;
+    float: right;
+    clear: both;
+    margin-bottom: 50px;
+    line-height: 30px;
+}
+
+.left-about-heading  h1 {
+    text-align: left;
+}
+
+.translate-heading {
+    width: 50%;
+    float: left;
+    clear: both;
+    margin-bottom: 50px;
+    line-height: 30px;
+}
+
+.right-about-heading h1 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+.memory-game-container {    
+    width: 600px;
+    height: 600px;
+    padding: 30px;
+    border-style: solid;
+    border-color: orange;
+    border-width: 1px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background-image: url(../images/Shamrock.jpg);
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
