@@ -1,3 +1,7 @@
+body {
+    background-image: url(https://peach-chameleon-lxnbgzfe.ws-eu03.gitpod.io/files/download/?id=1c2fa194-f2e5-4713-83db-3523b01038c5);
+}
+
 .flip-card {
     background-color: transparent;
     width: 300px;
@@ -5,8 +9,6 @@
     border: 1px solid black;
     perspective: 1000px;
     display: inline-block;
-    padding-right: 20px;
-    padding-left: 20px;
     margin-left: 25px;
 }
 
